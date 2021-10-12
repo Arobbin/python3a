@@ -38,34 +38,34 @@ def print_menu():
         """
         Open a new file
         """
-    print("New File Function Called")
+        print("New File Function Called")
 
     def choose_units():
         """
         Choose Units
         """
-    print("Choosing Units")
+        print("Choosing Units")
 
     def change_filter(sensor_list, active_sensors):
         """
         Change Sensors and Filters
         """
-    print("Changing Sensors and Filters")
+        print("Changing Sensors and Filters")
 
     def print_sumnmary_statistics(dataset, active_sensors):
         """
         Printing Stats
         """
-    print("Printing Stats")
+        print("Printing Stats")
 
     def print_temp_by_day_time(dataset, active_sensors):
         """
         Printing Temp by day and time
         """
-    print("Printing Temp by day and time")
+        print("Printing Temp by day and time")
 
     def print_histogram(dataset, active_sensors):
         """
         Printing histogram
         """
-    print("Printing histogram")
+        print("Printing histogram")
